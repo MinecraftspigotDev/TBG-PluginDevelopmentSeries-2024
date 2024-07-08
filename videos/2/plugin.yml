@@ -1,0 +1,11 @@
+name: theBelgiumGamesTutorial
+version: '${project.version}'
+main: nl.techjunkyben.hire.thebelgiumgamestutorial.Main
+api-version: '1.20'
+authors: [TechJunkyBen , TheBelgiumGames]
+description: The Belgium Games 2024 tutorial Opensource Release
+commands:
+  fly:
+    description: "laat je vliegen"
+    usage: "/fly"
+    aliases: [f,fl,vlieg,zweef]
